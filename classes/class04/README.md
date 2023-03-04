@@ -13,7 +13,7 @@ Marque esse projeto com uma estrela 🌟
 
 ## Live demo
 
-- Para testar o projeto final [clique aqui](https://erickwendel.github.io/semana-javascript-expert07/classes/class04/)
+- Para testar o projeto final [clique aqui](https://valdir-alves3000.github.io/semana-javascript-expert07/classes/class04)
 
 ## Running
 
